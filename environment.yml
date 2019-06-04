@@ -1,0 +1,15 @@
+name: Jovian_binder
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas==0.24.2
+  - qgrid==1.1.1
+  - notebook==5.7.5
+  - tornado==5.1.1
+  - jupyter==1.0.0
+  - jupyter_contrib_nbextensions==0.5.1
+  - jupyterthemes=0.20.0
+  - git==2.21.0
+  - gawk==5.0.0
