@@ -1,0 +1,13 @@
+SRR7892438:
+  R1: raw_data/SRR7892438_1.fastq.gz
+  R2: raw_data/SRR7892438_2.fastq.gz
+SRR7892471:
+  R1: raw_data/SRR7892471_1.fastq.gz
+  R2: raw_data/SRR7892471_2.fastq.gz
+SRR7892476:
+  R1: raw_data/SRR7892476_1.fastq.gz
+  R2: raw_data/SRR7892476_2.fastq.gz
+SRR7892478:
+  R1: raw_data/SRR7892478_1.fastq.gz
+  R2: raw_data/SRR7892478_2.fastq.gz
+

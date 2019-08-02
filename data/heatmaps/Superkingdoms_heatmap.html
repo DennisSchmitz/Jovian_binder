@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Superkingdoms heatmap</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="https://cdn.pydata.org/bokeh/release/bokeh-1.0.1.min.css" type="text/css" />
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.0.1.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="20d6e3f0-bab3-4a07-838f-8958ccf63989"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1111">
+          {"0366ac4a-18ca-4243-873b-af26ae4723f9":{"roots":{"references":[{"attributes":{"axis_line_color":{"value":null},"formatter":{"id":"1037","type":"CategoricalTickFormatter"},"major_label_orientation":0.7853981633974483,"major_label_standoff":0,"major_label_text_font_size":{"value":"12pt"},"major_tick_line_color":{"value":null},"plot":{"id":"1003","subtype":"Figure","type":"Plot"},"ticker":{"id":"1014","type":"CategoricalTicker"}},"id":"1013","type":"CategoricalAxis"},{"attributes":{},"id":"1014","type":"CategoricalTicker"},{"attributes":{},"id":"1022","type":"SaveTool"},{"attributes":{"callback":null,"data":{"alphas":[0.10010542794539674,0.5427235711045142,0.1020321236475221,0.3320357060990181,0.10007898287363223,0.8149489008367355,0.1023739646193273,0.13663298962141152,0.10016514723148821,0.3608859770203898,0.11632437487876095,0.5276664502849358,0.1,0.23139557348304993,0.10031321076157051,1.0],"assigned":["Archaea","Bacteria","Eukaryota","Viruses","Archaea","Bacteria","Eukaryota","Viruses","Archaea","Bacteria","Eukaryota","Viruses","Archaea","Bacteria","Eukaryota","Viruses"],"colors":["#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000","#000000"],"percent_of_total":{"__ndarray__":"/gNEGbVTcD8bI69VHr0wQATwb8Q9q7M/5OLFfb6LIUCAmX2pk3ZoPyomZ1P8BztAzQCPMEP6tj+5bECdICn2P4LhAbJJk3k/qF8mLjq6I0BhJ+3MHMDjPwdtDXdhKzBAAAAAAAAAAAAK8ICGG98TQP8tuRWlQIg/NEWsJX/nQkA=","dtype":"float64","shape":[16]},"reads":[160,671888,3084,352143,194,1756078,5831,89979,308,486553,30445,797599,0,179551,428,1366492],"samples":["SRR7892438","SRR7892438","SRR7892438","SRR7892438","SRR7892471","SRR7892471","SRR7892471","SRR7892471","SRR7892476","SRR7892476","SRR7892476","SRR7892476","SRR7892478","SRR7892478","SRR7892478","SRR7892478"]},"selected":{"id":"1054","type":"Selection"},"selection_policy":{"id":"1053","type":"UnionRenderers"}},"id":"1001","type":"ColumnDataSource"},{"attributes":{},"id":"1023","type":"PanTool"},{"attributes":{"grid_line_color":{"value":null},"plot":{"id":"1003","subtype":"Figure","type":"Plot"},"ticker":{"id":"1014","type":"CategoricalTicker"}},"id":"1016","type":"Grid"},{"attributes":{"data_source":{"id":"1001","type":"ColumnDataSource"},"glyph":{"id":"1043","type":"Rect"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"1044","type":"Rect"},"selection_glyph":null,"view":{"id":"1046","type":"CDSView"}},"id":"1045","type":"GlyphRenderer"},{"attributes":{"overlay":{"id":"1030","type":"BoxAnnotation"}},"id":"1024","type":"BoxZoomTool"},{"attributes":{},"id":"1037","type":"CategoricalTickFormatter"},{"attributes":{"axis_line_color":{"value":null},"formatter":{"id":"1039","type":"CategoricalTickFormatter"},"major_label_standoff":0,"major_label_text_font_size":{"value":"12pt"},"major_tick_line_color":{"value":null},"plot":{"id":"1003","subtype":"Figure","type":"Plot"},"ticker":{"id":"1018","type":"CategoricalTicker"}},"id":"1017","type":"CategoricalAxis"},{"attributes":{"above":[{"id":"1013","type":"CategoricalAxis"}],"left":[{"id":"1017","type":"CategoricalAxis"}],"renderers":[{"id":"1013","type":"CategoricalAxis"},{"id":"1016","type":"Grid"},{"id":"1017","type":"CategoricalAxis"},{"id":"1020","type":"Grid"},{"id":"1030","type":"BoxAnnotation"},{"id":"1045","type":"GlyphRenderer"}],"title":{"id":"1002","type":"Title"},"toolbar":{"id":"1027","type":"Toolbar"},"x_range":{"id":"1005","type":"FactorRange"},"x_scale":{"id":"1009","type":"CategoricalScale"},"y_range":{"id":"1007","type":"FactorRange"},"y_scale":{"id":"1011","type":"CategoricalScale"}},"id":"1003","subtype":"Figure","type":"Plot"},{"attributes":{},"id":"1025","type":"WheelZoomTool"},{"attributes":{"fill_alpha":{"field":"alphas"},"fill_color":{"field":"colors"},"height":{"units":"data","value":1},"line_alpha":{"field":"alphas"},"line_color":{"value":null},"width":{"units":"data","value":1},"x":{"field":"samples"},"y":{"field":"assigned"}},"id":"1043","type":"Rect"},{"attributes":{},"id":"1011","type":"CategoricalScale"},{"attributes":{},"id":"1018","type":"CategoricalTicker"},{"attributes":{"align":"right","plot":null,"text":"Superkingdoms heatmap","text_color":{"value":"#000000"},"text_font_size":{"value":"16pt"}},"id":"1002","type":"Title"},{"attributes":{},"id":"1053","type":"UnionRenderers"},{"attributes":{},"id":"1026","type":"ResetTool"},{"attributes":{},"id":"1054","type":"Selection"},{"attributes":{"dimension":1,"grid_line_color":{"value":null},"plot":{"id":"1003","subtype":"Figure","type":"Plot"},"ticker":{"id":"1018","type":"CategoricalTicker"}},"id":"1020","type":"Grid"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"1021","type":"HoverTool"},{"id":"1022","type":"SaveTool"},{"id":"1023","type":"PanTool"},{"id":"1024","type":"BoxZoomTool"},{"id":"1025","type":"WheelZoomTool"},{"id":"1026","type":"ResetTool"}]},"id":"1027","type":"Toolbar"},{"attributes":{},"id":"1039","type":"CategoricalTickFormatter"},{"attributes":{"callback":null,"factors":["SRR7892438","SRR7892471","SRR7892476","SRR7892478"]},"id":"1005","type":"FactorRange"},{"attributes":{"source":{"id":"1001","type":"ColumnDataSource"}},"id":"1046","type":"CDSView"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"height":{"units":"data","value":1},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"width":{"units":"data","value":1},"x":{"field":"samples"},"y":{"field":"assigned"}},"id":"1044","type":"Rect"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"plot":null,"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"1030","type":"BoxAnnotation"},{"attributes":{"callback":null,"factors":["Viruses","Eukaryota","Bacteria","Archaea"]},"id":"1007","type":"FactorRange"},{"attributes":{"callback":null,"renderers":"auto","tooltips":[["Sample","@samples"],["Taxon","@assigned"],["Number of reads","@reads"],["Percentage of total","@percent_of_total %"]]},"id":"1021","type":"HoverTool"},{"attributes":{},"id":"1009","type":"CategoricalScale"}],"root_ids":["1003"]},"title":"Bokeh Application","version":"1.0.1"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1111').textContent;
+                  var render_items = [{"docid":"0366ac4a-18ca-4243-873b-af26ae4723f9","roots":{"1003":"20d6e3f0-bab3-4a07-838f-8958ccf63989"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

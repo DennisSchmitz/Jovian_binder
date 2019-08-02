@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="https://igv.org/web/img/favicon.ico">
+
+    <title>igv.js</title>
+
+    <!-- IGV JS-->
+    <script src="https://cdn.jsdelivr.net/npm/igv@2.2.15/dist/igv.min.js"></script>
+
+</head>
+
+<body>
+
+<h1>Alignments from a BAM file</h1>
+
+<div id="igv-div" style="padding-top: 10px;padding-bottom: 10px; border:1px solid lightgray"></div>
+
+<script type="text/javascript">
+
+    document.addEventListener("DOMContentLoaded", function () {
+
+        var options =
+        {
+                reference:
+                    {
+                        id: "SRR7892438",
+                        fastaURL: "igv/SRR7892438_scaffolds_ge500nt.fasta"
+                    },
+
+            tracks: [
+                {
+                    type: "wig",
+                    name: "GC contents",
+                    format: "bedGraph",
+                    url: "igv/SRR7892438_GC.bedgraph",
+                    min: "0",
+                    max: "1"
+                },
+                {
+                    name:"SNPs",
+                    type:"variant",
+                    format:"vcf",
+                    url: "igv/SRR7892438_filtered.vcf.gz",
+                    indexURL: "igv/SRR7892438_filtered.vcf.gz.tbi",
+                },
+                {
+                    type: "alignment",
+                    format: "bam",
+                    colorBy: "strand",
+                    url: "igv/SRR7892438_sorted.bam",
+                    indexURL: "igv/SRR7892438_sorted.bam.bai",
+                    indexed: "true",
+                    name: "Alignment"
+                },
+                {
+                    type: "annotation",
+                    name: "ORF predictions",
+                    format: "gff3",
+                    url: "igv/SRR7892438_annotation.gff.gz",
+                    indexURL: "igv/SRR7892438_annotation.gff.gz.tbi",
+                    displayMode: "EXPANDED"
+                }
+            ]
+        };
+
+        var igvDiv = document.getElementById("igv-div");
+
+        igv.createBrowser(igvDiv, options)
+                .then(function (browser) {
+                    console.log("Created IGV browser");
+                })
+
+    });
+
+</script>
+
+</body>
+
+</html>

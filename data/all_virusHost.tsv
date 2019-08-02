@@ -1,0 +1,500 @@
+Sample_name	scaffold_name	taxID	NCBI_potential_hosts	virus_name	virus_lineage	refseq_id	KEGG_GENOME	KEGG_DISEASE	DISEASE	host_tax_id	host_name	host_lineage	pmid	evidence	sample_type	source_organism
+SRR7892471	NODE_5_length_12686_cov_19.981204	1675606.0	bacteria	Escherichia phage Murica	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus Murica	NC_041871				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_8_length_10960_cov_19.614812	2099658.0	bacteria													
+SRR7892471	NODE_9_length_10935_cov_13.243139	2576874.0	bacteria													
+SRR7892471	NODE_11_length_10421_cov_66.529969	2548052.0	bacteria													
+SRR7892471	NODE_18_length_9266_cov_24.561541	2070184.0	bacteria													
+SRR7892471	NODE_20_length_9069_cov_32.860543	2070184.0	bacteria													
+SRR7892471	NODE_24_length_8727_cov_16.144855	1131317.0	bacteria	Escherichia phage FV3	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus FV3	NC_019517				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_27_length_8321_cov_11.179888	38018.0	bacteria													
+SRR7892471	NODE_37_length_7473_cov_182.542455	12092.0	vertebrates,human	Hepatovirus A	Viruses; Riboviria; Picornavirales; Picornaviridae; Hepatovirus	NC_001489	T40068	H00411	Hepatitis A; Hepatitis A virus (HAV) infection	9536.0	Cercopithecus hamlyni	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Cercopithecoidea; Cercopithecidae; Cercopithecinae; Cercopithecus		UniProt		
+SRR7892471	NODE_37_length_7473_cov_182.542455	12092.0	vertebrates,human	Hepatovirus A	Viruses; Riboviria; Picornavirales; Picornaviridae; Hepatovirus	NC_001489	T40068	H00411	Hepatitis A; Hepatitis A virus (HAV) infection	9539.0	Macaca	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Cercopithecoidea; Cercopithecidae; Cercopithecinae		UniProt		
+SRR7892471	NODE_37_length_7473_cov_182.542455	12092.0	vertebrates,human	Hepatovirus A	Viruses; Riboviria; Picornavirales; Picornaviridae; Hepatovirus	NC_001489	T40068	H00411	Hepatitis A; Hepatitis A virus (HAV) infection	9598.0	Pan troglodytes	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Pan		UniProt		
+SRR7892471	NODE_37_length_7473_cov_182.542455	12092.0	vertebrates,human	Hepatovirus A	Viruses; Riboviria; Picornavirales; Picornaviridae; Hepatovirus	NC_001489	T40068	H00411	Hepatitis A; Hepatitis A virus (HAV) infection	9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		UniProt		
+SRR7892471	NODE_48_length_6654_cov_12.487152	1675606.0	bacteria	Escherichia phage Murica	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus Murica	NC_041871				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_54_length_6281_cov_11.067859	2576874.0	bacteria													
+SRR7892471	NODE_92_length_4987_cov_7.707332	2502307.0	bacteria													
+SRR7892471	NODE_93_length_4976_cov_8.572362	1914852.0	bacteria													
+SRR7892471	NODE_96_length_4930_cov_31.059551	2070184.0	bacteria													
+SRR7892471	NODE_104_length_4715_cov_23.876455	2576874.0	bacteria													
+SRR7892471	NODE_140_length_3984_cov_11.623240	2576874.0	bacteria													
+SRR7892471	NODE_147_length_3956_cov_10.107502	2548155.0	bacteria													
+SRR7892471	NODE_148_length_3947_cov_14.774160	2576874.0	bacteria													
+SRR7892471	NODE_162_length_3728_cov_13.316899	2070184.0	bacteria													
+SRR7892471	NODE_165_length_3703_cov_10.707115	2306966.0	bacteria													
+SRR7892471	NODE_186_length_3562_cov_4.811191	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_192_length_3521_cov_14.128630	2099658.0	bacteria													
+SRR7892471	NODE_197_length_3471_cov_10.379493	2306966.0	bacteria													
+SRR7892471	NODE_232_length_3181_cov_17.260954	1868658.0	vertebrates,human	Human astrovirus	Viruses; Riboviria; Astroviridae; unclassified Astroviridae	NC_001943				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo				
+SRR7892471	NODE_339_length_2622_cov_13.000393	2306966.0	bacteria													
+SRR7892471	NODE_357_length_2555_cov_7.967716	1914852.0	bacteria													
+SRR7892471	NODE_367_length_2515_cov_5.728876	2576874.0	bacteria													
+SRR7892471	NODE_378_length_2465_cov_8.533082	2099658.0	bacteria													
+SRR7892471	NODE_381_length_2453_cov_10.874158	1914852.0	bacteria													
+SRR7892471	NODE_412_length_2342_cov_12.554525	1131317.0	bacteria	Escherichia phage FV3	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus FV3	NC_019517				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_413_length_2342_cov_7.678146	1911928.0	bacteria													
+SRR7892471	NODE_462_length_2205_cov_20.107143	1868658.0	vertebrates,human	Human astrovirus	Viruses; Riboviria; Astroviridae; unclassified Astroviridae	NC_001943				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo				
+SRR7892471	NODE_507_length_2097_cov_4.105941	1907787.0		Picobirnavirus sp.	Viruses; Riboviria; Picobirnaviridae; Picobirnavirus; unclassified Picobirnavirus	NC_040752, NC_040753				9858.0	Capreolus capreolus	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Laurasiatheria; Ruminantia; Pecora; Cervidae; Odocoileinae; Capreolus		NCBI Virus		
+SRR7892471	NODE_544_length_2022_cov_5.033933	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_639_length_1855_cov_10.471879	2048062.0	bacteria													
+SRR7892471	NODE_679_length_1796_cov_9.848168	2508197.0	bacteria													
+SRR7892471	NODE_692_length_1785_cov_14.631733	1914852.0	bacteria													
+SRR7892471	NODE_709_length_1749_cov_4.953349	1914852.0	bacteria													
+SRR7892471	NODE_757_length_1695_cov_1.480222	2202644.0	bacteria													
+SRR7892471	NODE_841_length_1591_cov_5.842140	2202644.0	bacteria													
+SRR7892471	NODE_1026_length_1444_cov_11.414777	2502307.0	bacteria													
+SRR7892471	NODE_1047_length_1428_cov_8.821614	2548049.0	bacteria													
+SRR7892471	NODE_1081_length_1400_cov_4.865457	2548055.0	bacteria													
+SRR7892471	NODE_1104_length_1387_cov_5.464122	1911928.0	bacteria													
+SRR7892471	NODE_1130_length_1373_cov_8.865741	2099658.0	bacteria													
+SRR7892471	NODE_1150_length_1366_cov_13.579519	1758150.0	bacteria													
+SRR7892471	NODE_1164_length_1360_cov_5.599376	1131317.0	bacteria	Escherichia phage FV3	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus FV3	NC_019517				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_1173_length_1355_cov_1.708920	2548050.0	bacteria													
+SRR7892471	NODE_1232_length_1321_cov_5.372990	1914852.0	bacteria													
+SRR7892471	NODE_1329_length_1265_cov_11.158249	2576874.0	bacteria													
+SRR7892471	NODE_1335_length_1259_cov_6.001692	1914852.0	bacteria													
+SRR7892471	NODE_1357_length_1248_cov_5.071734	1914852.0	bacteria													
+SRR7892471	NODE_1639_length_1140_cov_4.323612	1914852.0	bacteria													
+SRR7892471	NODE_1648_length_1136_cov_9.106704	1758150.0	bacteria													
+SRR7892471	NODE_1860_length_1063_cov_6.074037	2548055.0	bacteria													
+SRR7892471	NODE_1874_length_1060_cov_7.069176	1868658.0	vertebrates,human	Human astrovirus	Viruses; Riboviria; Astroviridae; unclassified Astroviridae	NC_001943				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo				
+SRR7892471	NODE_2431_length_942_cov_17.712139	2233993.0	bacteria													
+SRR7892471	NODE_2569_length_918_cov_8.265161	2502307.0	bacteria													
+SRR7892471	NODE_2759_length_888_cov_1.744760	38018.0	bacteria													
+SRR7892471	NODE_2771_length_885_cov_7.516089	1914852.0	bacteria													
+SRR7892471	NODE_2894_length_867_cov_7.749367	2576873.0	bacteria													
+SRR7892471	NODE_2967_length_858_cov_10.930858	1675606.0	bacteria	Escherichia phage Murica	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus Murica	NC_041871				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_2999_length_855_cov_3.142674	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_3153_length_834_cov_8.906209	1911928.0	bacteria													
+SRR7892471	NODE_3258_length_821_cov_3.055108	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_3336_length_812_cov_4.624490	2069609.0	bacteria													
+SRR7892471	NODE_3366_length_809_cov_5.285519	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_3392_length_807_cov_3.590411	1914852.0	bacteria													
+SRR7892471	NODE_3488_length_797_cov_2.431944	2548052.0	bacteria													
+SRR7892471	NODE_3515_length_794_cov_2.949791	2548052.0	bacteria													
+SRR7892471	NODE_3712_length_775_cov_6.481375	2502307.0	bacteria													
+SRR7892471	NODE_3736_length_773_cov_5.422414	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_4080_length_746_cov_3.182362	1911928.0	bacteria													
+SRR7892471	NODE_4224_length_733_cov_23.564024	1478972.0	bacteria													
+SRR7892471	NODE_4342_length_724_cov_1.800618	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_4747_length_695_cov_1.022654	2070186.0	bacteria													
+SRR7892471	NODE_4835_length_689_cov_3.593137	2548052.0	bacteria													
+SRR7892471	NODE_5056_length_676_cov_3.333890	1907787.0		Picobirnavirus sp.	Viruses; Riboviria; Picobirnaviridae; Picobirnavirus; unclassified Picobirnavirus	NC_040752, NC_040753				9858.0	Capreolus capreolus	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Laurasiatheria; Ruminantia; Pecora; Cervidae; Odocoileinae; Capreolus		NCBI Virus		
+SRR7892471	NODE_5556_length_649_cov_1.839161	2548043.0	bacteria													
+SRR7892471	NODE_5699_length_640_cov_9.460036	2202644.0	bacteria													
+SRR7892471	NODE_5947_length_629_cov_3.757246	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_6063_length_623_cov_5.697802	1131317.0	bacteria	Escherichia phage FV3	Viruses; Caudovirales; Myoviridae; Vequintavirinae; Vequintavirus; Escherichia virus FV3	NC_019517				562.0	Escherichia coli	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Escherichia		RefSeq		
+SRR7892471	NODE_6203_length_617_cov_3.775926	2202559.0	bacteria													
+SRR7892471	NODE_6244_length_615_cov_4.643123	1758150.0	bacteria													
+SRR7892471	NODE_6327_length_612_cov_0.850467	1198140.0	bacteria													
+SRR7892471	NODE_6373_length_609_cov_11.624060	1105171.0	bacteria	Bacteroides phage B124-14	Viruses; Caudovirales; Siphoviridae; unclassified Siphoviridae	NC_016770				817.0	Bacteroides fragilis	Bacteria; Bacteroidetes; Bacteroidia; Bacteroidales; Bacteroidaceae; Bacteroides		NCBI Virus, RefSeq		
+SRR7892471	NODE_6398_length_608_cov_3.625235	1986031.0	bacteria													
+SRR7892471	NODE_6624_length_598_cov_2.069098	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_6681_length_596_cov_1.716763	2070202.0	bacteria													
+SRR7892471	NODE_6683_length_596_cov_1.583815	2234035.0	bacteria													
+SRR7892471	NODE_6862_length_589_cov_1.197266	1500734.0	bacteria	Lactobacillus phage Ld25A	Viruses; Caudovirales; Siphoviridae; Cequinquevirus; Lactobacillus virus Ld25A	NC_025415				1584.0	Lactobacillus delbrueckii	Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae; Lactobacillus		RefSeq		
+SRR7892471	NODE_7091_length_580_cov_7.757455	1758150.0	bacteria													
+SRR7892471	NODE_7164_length_577_cov_5.996000	2233993.0	bacteria													
+SRR7892471	NODE_7606_length_561_cov_1.520661	1449897.0	bacteria	Uncultured phage WW-nAnB strain 3	Viruses; Inoviridae; environmental samples	NC_026613				1.0	root		24410947	Literature	Organismal	9606.0
+SRR7892471	NODE_7613_length_561_cov_0.797521	2047765.0	bacteria													
+SRR7892471	NODE_7810_length_554_cov_6.530398	1914852.0	bacteria													
+SRR7892471	NODE_7930_length_550_cov_3.120507	2548050.0	bacteria													
+SRR7892471	NODE_8650_length_530_cov_0.856512	1233383.0	vertebrates	Human cosavirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Cosavirus; unclassified Cosavirus	NC_023984				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892471	NODE_8786_length_526_cov_1.258352	2546635.0	bacteria													
+SRR7892471	NODE_8910_length_523_cov_1.170404	2548155.0	bacteria													
+SRR7892471	NODE_9269_length_513_cov_6.944954	2576873.0	bacteria													
+SRR7892471	NODE_9559_length_507_cov_0.995349	1474867.0	algae	Aureococcus anophagefferens virus	Viruses; Phycodnaviridae; unclassified Phycodnaviridae	NC_024697				44056.0	Aureococcus anophagefferens	Eukaryota; Pelagophyceae; Pelagomonadales; Aureococcus	25035289	Literature, NCBI Virus, RefSeq		
+SRR7892476	NODE_1_length_40580_cov_546.682715	1897430.0	bacteria													
+SRR7892476	NODE_3_length_28622_cov_131.854616	2572531.0	bacteria													
+SRR7892476	NODE_4_length_26979_cov_210.237120	1982367.0	bacteria													
+SRR7892476	NODE_5_length_18941_cov_34.842504	2268589.0	bacteria													
+SRR7892476	NODE_8_length_11148_cov_45.254629	1927013.0	bacteria	Aquamicrobium phage P14	Viruses; Caudovirales; Podoviridae; Aqualcavirus; Aquamicrobium virus P14	NC_041912				658602.0	Aquamicrobium sp. H14	Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales; Phyllobacteriaceae; Aquamicrobium		RefSeq		
+SRR7892476	NODE_11_length_10203_cov_79.723287	2212563.0	bacteria													
+SRR7892476	NODE_12_length_9669_cov_29.851856	1982370.0	bacteria													
+SRR7892476	NODE_13_length_9479_cov_35.429270	2575323.0	bacteria													
+SRR7892476	NODE_16_length_8235_cov_26.327531	1982370.0	bacteria													
+SRR7892476	NODE_30_length_5657_cov_16.491577	2483610.0	bacteria													
+SRR7892476	NODE_31_length_5612_cov_11.846793	1193974.0	vertebrates	Human enterovirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Enterovirus; unclassified Enterovirus	NC_030454				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892476	NODE_32_length_5515_cov_108.989518	2202559.0	bacteria													
+SRR7892476	NODE_40_length_5122_cov_11.097919	1907784.0	bacteria													
+SRR7892476	NODE_50_length_4598_cov_15.820394	1982578.0	bacteria													
+SRR7892476	NODE_56_length_4402_cov_61.541040	2212563.0	bacteria													
+SRR7892476	NODE_58_length_4373_cov_15.019786	2301689.0	bacteria													
+SRR7892476	NODE_60_length_4335_cov_17.420150	2565502.0	bacteria													
+SRR7892476	NODE_70_length_4059_cov_17.404571	2500166.0	bacteria													
+SRR7892476	NODE_71_length_4001_cov_33.397044	2496551.0	bacteria	Shigella phage pSf-1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Hanrivervirus; Shigella virus pSf1	NC_021331				623.0	Shigella flexneri	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella		RefSeq		
+SRR7892476	NODE_73_length_3977_cov_216.687949	2026949.0	bacteria													
+SRR7892476	NODE_80_length_3753_cov_8.792165	2060945.0	bacteria													
+SRR7892476	NODE_81_length_3737_cov_12.647268	2301689.0	bacteria													
+SRR7892476	NODE_82_length_3717_cov_26.419505	2026949.0	bacteria													
+SRR7892476	NODE_110_length_3175_cov_6.523241	2340716.0	bacteria													
+SRR7892476	NODE_115_length_3119_cov_24.665023	2060945.0	bacteria													
+SRR7892476	NODE_121_length_3036_cov_33.462656	2560233.0	bacteria													
+SRR7892476	NODE_122_length_3036_cov_24.314971	1747282.0	bacteria	Klebsiella phage KpV41	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KpV41	NC_028670				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_136_length_2805_cov_23.660924	2500166.0	bacteria													
+SRR7892476	NODE_137_length_2804_cov_14.136414	1982370.0	bacteria													
+SRR7892476	NODE_139_length_2773_cov_5.526706	2483610.0	bacteria													
+SRR7892476	NODE_155_length_2548_cov_39.471469	2212563.0	bacteria													
+SRR7892476	NODE_156_length_2539_cov_9.651097	1985711.0	bacteria													
+SRR7892476	NODE_157_length_2510_cov_9.787916	1920860.0	bacteria													
+SRR7892476	NODE_160_length_2490_cov_8.075010	1610834.0	bacteria	Klebsiella phage vB_KpnP_SU503	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus SU503	NC_028816				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_161_length_2488_cov_7.988801	2500166.0	bacteria													
+SRR7892476	NODE_168_length_2437_cov_11.816949	2496551.0	bacteria	Shigella phage pSf-1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Hanrivervirus; Shigella virus pSf1	NC_021331				623.0	Shigella flexneri	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella		RefSeq		
+SRR7892476	NODE_171_length_2413_cov_5.416952	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_173_length_2409_cov_15.522298	1051675.0	bacteria	Erwinia phage vB_EamP-S6	Viruses; Caudovirales; Podoviridae; unclassified Podoviridae	NC_019514				552.0	Erwinia amylovora	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Erwiniaceae; Erwinia		NCBI Virus, RefSeq		
+SRR7892476	NODE_177_length_2372_cov_23.755556	196895.0	bacteria													
+SRR7892476	NODE_181_length_2355_cov_11.515803	2099390.0	bacteria													
+SRR7892476	NODE_182_length_2337_cov_13.029646	196895.0	bacteria													
+SRR7892476	NODE_183_length_2334_cov_36.941515	2315629.0	bacteria													
+SRR7892476	NODE_192_length_2241_cov_5.160813	2575323.0	bacteria													
+SRR7892476	NODE_196_length_2231_cov_9.908542	1982370.0	bacteria													
+SRR7892476	NODE_198_length_2221_cov_10.036381	2136179.0	bacteria													
+SRR7892476	NODE_207_length_2161_cov_15.415547	1813769.0	bacteria	Salmonella phage 64795_sal3	Viruses; Caudovirales; Siphoviridae; Roufvirus; unclassified Roufvirus	NC_031918				28901.0	Salmonella enterica	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella		NCBI Virus, RefSeq		
+SRR7892476	NODE_213_length_2134_cov_17.718522	1970798.0	bacteria													
+SRR7892476	NODE_219_length_2111_cov_15.133727	2575323.0	bacteria													
+SRR7892476	NODE_228_length_2056_cov_12.680647	2575323.0	bacteria													
+SRR7892476	NODE_232_length_2032_cov_4.600512	2548052.0	bacteria													
+SRR7892476	NODE_235_length_2011_cov_9.144778	1785176.0	bacteria													
+SRR7892476	NODE_236_length_1997_cov_6.188542	1933773.0	bacteria													
+SRR7892476	NODE_240_length_1976_cov_15.813060	2053702.0	bacteria													
+SRR7892476	NODE_250_length_1950_cov_9.445275	2099850.0	bacteria													
+SRR7892476	NODE_251_length_1946_cov_4.912253	2530028.0	bacteria													
+SRR7892476	NODE_254_length_1941_cov_13.136803	2575323.0	bacteria													
+SRR7892476	NODE_256_length_1939_cov_4.653598	2099850.0	bacteria													
+SRR7892476	NODE_263_length_1917_cov_10.886957	1982370.0	bacteria													
+SRR7892476	NODE_265_length_1912_cov_13.517166	1610834.0	bacteria	Klebsiella phage vB_KpnP_SU503	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus SU503	NC_028816				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_267_length_1907_cov_7.755191	2006922.0	bacteria	Shigella phage vB_SsoS-ISF002	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Tunavirus; unclassified Tunavirus	NC_041995				624.0	Shigella sonnei	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella		NCBI Virus, RefSeq		
+SRR7892476	NODE_272_length_1886_cov_8.135987	2575323.0	bacteria													
+SRR7892476	NODE_276_length_1869_cov_4.758371	2483610.0	bacteria													
+SRR7892476	NODE_279_length_1862_cov_9.851541	1982370.0	bacteria													
+SRR7892476	NODE_282_length_1851_cov_15.607103	2301690.0	bacteria													
+SRR7892476	NODE_283_length_1840_cov_4.319342	2500166.0	bacteria													
+SRR7892476	NODE_290_length_1814_cov_9.687392	674081.0	bacteria	Klebsiella phage KP34	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KP34	NC_013649				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella	21327407, 25853484	Literature, RefSeq		
+SRR7892476	NODE_294_length_1806_cov_6.436669	1912321.0	bacteria	Klebsiella phage vB_KpnM_KpV52	Viruses; Caudovirales; Myoviridae; Jedunavirus; Klebsiella virus KpV80	NC_041900				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_299_length_1799_cov_6.378630	1193974.0	vertebrates	Human enterovirus	Viruses; Riboviria; Picornavirales; Picornaviridae; Enterovirus; unclassified Enterovirus	NC_030454				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		NCBI Virus, RefSeq		
+SRR7892476	NODE_304_length_1779_cov_8.962985	2548046.0	bacteria													
+SRR7892476	NODE_324_length_1712_cov_9.376147	2562725.0	bacteria													
+SRR7892476	NODE_342_length_1661_cov_5.755682	2483610.0	bacteria													
+SRR7892476	NODE_350_length_1625_cov_7.581395	2234035.0	bacteria													
+SRR7892476	NODE_354_length_1615_cov_8.988296	2575323.0	bacteria													
+SRR7892476	NODE_357_length_1607_cov_16.099346	1907784.0	bacteria													
+SRR7892476	NODE_359_length_1601_cov_2.878609	2483610.0	bacteria													
+SRR7892476	NODE_362_length_1593_cov_5.028364	1610829.0	bacteria	Klebsiella phage 1513	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus 1513	NC_028786				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_368_length_1580_cov_4.068530	2483610.0	bacteria													
+SRR7892476	NODE_373_length_1567_cov_6.792617	2099390.0	bacteria													
+SRR7892476	NODE_387_length_1539_cov_10.459644	2575323.0	bacteria													
+SRR7892476	NODE_394_length_1515_cov_16.605007	1852657.0	bacteria	Klebsiella phage KpV475	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KpV475	NC_031025				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_400_length_1508_cov_4.097834	2500166.0	bacteria													
+SRR7892476	NODE_403_length_1497_cov_7.050704	1913574.0	bacteria													
+SRR7892476	NODE_409_length_1481_cov_3.205128	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_415_length_1474_cov_8.266285	1647408.0	bacteria	Klebsiella phage KLPN1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus KLPN1	NC_028760				72407.0	Klebsiella pneumoniae subsp. pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae		RefSeq		
+SRR7892476	NODE_416_length_1471_cov_12.875897	1933773.0	bacteria													
+SRR7892476	NODE_432_length_1450_cov_14.525127	2548053.0	bacteria													
+SRR7892476	NODE_436_length_1439_cov_8.726872	2510477.0	bacteria													
+SRR7892476	NODE_441_length_1433_cov_6.554572	1129191.0	bacteria	Klebsiella phage KP36	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus KP36	NC_029099				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_460_length_1399_cov_21.031014	1920860.0	bacteria													
+SRR7892476	NODE_472_length_1385_cov_5.333333	2483610.0	bacteria													
+SRR7892476	NODE_474_length_1380_cov_4.860322	1904925.0	bacteria													
+SRR7892476	NODE_475_length_1378_cov_10.245196	1647408.0	bacteria	Klebsiella phage KLPN1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus KLPN1	NC_028760				72407.0	Klebsiella pneumoniae subsp. pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae		RefSeq		
+SRR7892476	NODE_476_length_1377_cov_8.383077	1907784.0	bacteria													
+SRR7892476	NODE_491_length_1360_cov_6.726422	2026949.0	bacteria													
+SRR7892476	NODE_495_length_1355_cov_12.364632	1555207.0	bacteria													
+SRR7892476	NODE_496_length_1354_cov_18.739233	2500828.0	bacteria													
+SRR7892476	NODE_516_length_1332_cov_3.353785	2099850.0	bacteria													
+SRR7892476	NODE_519_length_1330_cov_11.474062	1913574.0	bacteria													
+SRR7892476	NODE_522_length_1327_cov_2.348800	1907784.0	bacteria													
+SRR7892476	NODE_524_length_1322_cov_4.342972	1907784.0	bacteria													
+SRR7892476	NODE_526_length_1320_cov_5.158488	2070182.0	bacteria													
+SRR7892476	NODE_549_length_1277_cov_5.597500	1907784.0	bacteria													
+SRR7892476	NODE_552_length_1276_cov_4.608007	2483610.0	bacteria													
+SRR7892476	NODE_554_length_1274_cov_5.828739	2053702.0	bacteria													
+SRR7892476	NODE_557_length_1273_cov_3.535953	1907784.0	bacteria													
+SRR7892476	NODE_564_length_1268_cov_12.522250	1920860.0	bacteria													
+SRR7892476	NODE_570_length_1262_cov_7.931646	1982370.0	bacteria													
+SRR7892476	NODE_577_length_1251_cov_10.189949	2562725.0	bacteria													
+SRR7892476	NODE_581_length_1248_cov_9.695132	2500166.0	bacteria													
+SRR7892476	NODE_593_length_1234_cov_6.063959	1907784.0	bacteria													
+SRR7892476	NODE_599_length_1231_cov_5.059792	2508196.0	bacteria													
+SRR7892476	NODE_603_length_1226_cov_10.806789	2500166.0	bacteria													
+SRR7892476	NODE_604_length_1226_cov_6.765013	2060945.0	bacteria													
+SRR7892476	NODE_607_length_1219_cov_6.524518	2100421.0	bacteria													
+SRR7892476	NODE_608_length_1219_cov_4.867776	1907784.0	bacteria													
+SRR7892476	NODE_616_length_1215_cov_8.512302	1173741.0	bacteria	Salmonella virus SP126	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Tlsvirus	NC_042066				28901.0	Salmonella enterica	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Salmonella		NCBI Virus, RefSeq		
+SRR7892476	NODE_625_length_1207_cov_5.203540	2100421.0	bacteria													
+SRR7892476	NODE_637_length_1193_cov_3.809140	2070202.0	bacteria													
+SRR7892476	NODE_646_length_1175_cov_5.356102	1907784.0	bacteria													
+SRR7892476	NODE_652_length_1166_cov_14.248852	1933773.0	bacteria													
+SRR7892476	NODE_656_length_1165_cov_1.846507	1654928.0	bacteria	Klebsiella phage PKO111	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Jiaodavirus; Klebsiella virus PKO111	NC_031095				571.0	Klebsiella oxytoca	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_664_length_1157_cov_6.533333	1555207.0	bacteria													
+SRR7892476	NODE_667_length_1157_cov_4.729630	2267885.0	bacteria													
+SRR7892476	NODE_668_length_1156_cov_10.646895	1982370.0	bacteria													
+SRR7892476	NODE_674_length_1155_cov_4.363636	2212563.0	bacteria													
+SRR7892476	NODE_675_length_1155_cov_3.839518	1907784.0	bacteria													
+SRR7892476	NODE_678_length_1152_cov_8.585116	2212563.0	bacteria													
+SRR7892476	NODE_682_length_1150_cov_5.031687	2483610.0	bacteria													
+SRR7892476	NODE_688_length_1142_cov_5.287324	2099850.0	bacteria													
+SRR7892476	NODE_693_length_1138_cov_2.674835	2099850.0	bacteria													
+SRR7892476	NODE_701_length_1132_cov_6.999052	1647408.0	bacteria	Klebsiella phage KLPN1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus KLPN1	NC_028760				72407.0	Klebsiella pneumoniae subsp. pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae		RefSeq		
+SRR7892476	NODE_707_length_1125_cov_15.008588	2562725.0	bacteria													
+SRR7892476	NODE_712_length_1123_cov_4.786807	1129191.0	bacteria	Klebsiella phage KP36	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus KP36	NC_029099				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_714_length_1122_cov_4.675598	2212563.0	bacteria													
+SRR7892476	NODE_718_length_1119_cov_14.297505	1555207.0	bacteria													
+SRR7892476	NODE_723_length_1117_cov_6.549038	674081.0	bacteria	Klebsiella phage KP34	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KP34	NC_013649				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella	21327407, 25853484	Literature, RefSeq		
+SRR7892476	NODE_728_length_1115_cov_3.679191	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_730_length_1110_cov_6.204259	2026949.0	bacteria													
+SRR7892476	NODE_733_length_1107_cov_3.136893	1907784.0	bacteria													
+SRR7892476	NODE_737_length_1102_cov_2.360000	2099850.0	bacteria													
+SRR7892476	NODE_740_length_1099_cov_2.073386	2070202.0	bacteria													
+SRR7892476	NODE_742_length_1097_cov_3.366667	2548155.0	bacteria													
+SRR7892476	NODE_753_length_1091_cov_1.845168	1985325.0	bacteria													
+SRR7892476	NODE_757_length_1086_cov_4.752230	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_762_length_1083_cov_9.314115	2419608.0	bacteria													
+SRR7892476	NODE_768_length_1081_cov_1.740040	1985328.0	bacteria													
+SRR7892476	NODE_786_length_1071_cov_13.427565	2419608.0	bacteria													
+SRR7892476	NODE_789_length_1070_cov_9.564955	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_790_length_1070_cov_1.600201	1675608.0	bacteria	Klebsiella phage Miro	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Slopekvirus; Klebsiella virus Miro	NC_041981				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_803_length_1062_cov_4.438579	2548094.0	bacteria													
+SRR7892476	NODE_804_length_1061_cov_9.329268	2508196.0	bacteria													
+SRR7892476	NODE_812_length_1056_cov_7.179775	1194091.0	bacteria	Klebsiella phage NTUH-K2044-K1-1	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus K244	NC_025418				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella	25001459, 25853484	Literature		
+SRR7892476	NODE_812_length_1056_cov_7.179775	1194091.0	bacteria	Klebsiella phage NTUH-K2044-K1-1	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus K244	NC_025418				484021.0	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae	25001459, 25853484	Literature		
+SRR7892476	NODE_815_length_1054_cov_17.751279	2136179.0	bacteria													
+SRR7892476	NODE_817_length_1053_cov_2.866803	2070202.0	bacteria													
+SRR7892476	NODE_822_length_1049_cov_25.280864	2496544.0	bacteria													
+SRR7892476	NODE_823_length_1049_cov_16.872428	2500828.0	bacteria													
+SRR7892476	NODE_829_length_1046_cov_4.466460	2099850.0	bacteria													
+SRR7892476	NODE_834_length_1044_cov_6.615305	2548056.0	bacteria													
+SRR7892476	NODE_837_length_1041_cov_3.574689	2099850.0	bacteria													
+SRR7892476	NODE_858_length_1027_cov_2.277895	1985325.0	bacteria													
+SRR7892476	NODE_860_length_1027_cov_1.876842	1985328.0	bacteria													
+SRR7892476	NODE_861_length_1026_cov_5.389884	1194091.0	bacteria	Klebsiella phage NTUH-K2044-K1-1	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus K244	NC_025418				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella	25001459, 25853484	Literature		
+SRR7892476	NODE_861_length_1026_cov_5.389884	1194091.0	bacteria	Klebsiella phage NTUH-K2044-K1-1	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus K244	NC_025418				484021.0	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae	25001459, 25853484	Literature		
+SRR7892476	NODE_862_length_1026_cov_3.606955	2099850.0	bacteria													
+SRR7892476	NODE_864_length_1024_cov_7.736008	1982370.0	bacteria													
+SRR7892476	NODE_866_length_1024_cov_3.455121	2099850.0	bacteria													
+SRR7892476	NODE_867_length_1024_cov_1.674762	1907784.0	bacteria													
+SRR7892476	NODE_872_length_1020_cov_9.511135	2500828.0	bacteria													
+SRR7892476	NODE_876_length_1018_cov_11.856536	2500166.0	bacteria													
+SRR7892476	NODE_900_length_1005_cov_7.230603	1982370.0	bacteria													
+SRR7892476	NODE_901_length_1005_cov_4.426724	1129191.0	bacteria	Klebsiella phage KP36	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus KP36	NC_029099				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_907_length_1003_cov_5.651188	10662.0	bacteria													
+SRR7892476	NODE_913_length_1000_cov_5.710726	2233992.0	bacteria													
+SRR7892476	NODE_920_length_996_cov_22.133841	1920774.0	bacteria													
+SRR7892476	NODE_921_length_996_cov_10.563656	2212563.0	bacteria													
+SRR7892476	NODE_922_length_995_cov_16.140523	2169642.0	bacteria													
+SRR7892476	NODE_953_length_982_cov_1.570166	38018.0	bacteria													
+SRR7892476	NODE_962_length_976_cov_2.500556	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_963_length_975_cov_16.781737	2500166.0	bacteria													
+SRR7892476	NODE_965_length_975_cov_7.027840	1758150.0	bacteria													
+SRR7892476	NODE_976_length_971_cov_10.105145	1910999.0	bacteria													
+SRR7892476	NODE_977_length_971_cov_3.387025	2099850.0	bacteria													
+SRR7892476	NODE_981_length_967_cov_12.820225	1920774.0	bacteria													
+SRR7892476	NODE_990_length_963_cov_2.283296	2099850.0	bacteria													
+SRR7892476	NODE_998_length_956_cov_8.415245	2508189.0	bacteria													
+SRR7892476	NODE_999_length_955_cov_4.690205	2099850.0	bacteria													
+SRR7892476	NODE_1003_length_955_cov_1.263098	2483610.0	bacteria													
+SRR7892476	NODE_1005_length_954_cov_5.448119	2099850.0	bacteria													
+SRR7892476	NODE_1010_length_952_cov_5.706286	2500166.0	bacteria													
+SRR7892476	NODE_1014_length_950_cov_12.124857	1982370.0	bacteria													
+SRR7892476	NODE_1027_length_940_cov_2.203940	2099850.0	bacteria													
+SRR7892476	NODE_1033_length_937_cov_6.255814	2053702.0	bacteria													
+SRR7892476	NODE_1039_length_936_cov_1.389988	2530028.0	bacteria													
+SRR7892476	NODE_1051_length_932_cov_4.832749	2530029.0	bacteria													
+SRR7892476	NODE_1055_length_929_cov_5.325117	2099850.0	bacteria													
+SRR7892476	NODE_1061_length_928_cov_2.244418	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1077_length_920_cov_4.533808	2099850.0	bacteria													
+SRR7892476	NODE_1090_length_915_cov_5.937947	2483610.0	bacteria													
+SRR7892476	NODE_1093_length_914_cov_3.753883	1758150.0	bacteria													
+SRR7892476	NODE_1094_length_914_cov_3.507766	1907784.0	bacteria													
+SRR7892476	NODE_1095_length_914_cov_2.977300	2508196.0	bacteria													
+SRR7892476	NODE_1104_length_912_cov_4.632335	2508196.0	bacteria													
+SRR7892476	NODE_1113_length_909_cov_7.318510	2099850.0	bacteria													
+SRR7892476	NODE_1115_length_908_cov_24.752106	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1125_length_903_cov_4.069007	2100421.0	bacteria													
+SRR7892476	NODE_1132_length_902_cov_1.953939	1610834.0	bacteria	Klebsiella phage vB_KpnP_SU503	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus SU503	NC_028816				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1136_length_900_cov_7.678007	1920860.0	bacteria													
+SRR7892476	NODE_1137_length_900_cov_6.820170	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1140_length_899_cov_9.345499	2212563.0	bacteria													
+SRR7892476	NODE_1147_length_897_cov_4.508537	1907784.0	bacteria													
+SRR7892476	NODE_1155_length_891_cov_2.911548	2053702.0	bacteria													
+SRR7892476	NODE_1157_length_891_cov_1.703931	1985328.0	bacteria													
+SRR7892476	NODE_1162_length_889_cov_3.600985	1907784.0	bacteria													
+SRR7892476	NODE_1170_length_888_cov_1.632552	1920774.0	bacteria													
+SRR7892476	NODE_1173_length_887_cov_2.088889	674081.0	bacteria	Klebsiella phage KP34	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KP34	NC_013649				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella	21327407, 25853484	Literature, RefSeq		
+SRR7892476	NODE_1178_length_885_cov_2.362624	1985328.0	bacteria													
+SRR7892476	NODE_1187_length_882_cov_2.114286	707757.0	bacteria	Klebsiella phage KP15	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Slopekvirus; Klebsiella virus KP15	NC_014036				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1193_length_880_cov_2.105853	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1207_length_875_cov_3.411028	2099850.0	bacteria													
+SRR7892476	NODE_1217_length_872_cov_2.238994	1852657.0	bacteria	Klebsiella phage KpV475	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KpV475	NC_031025				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1219_length_871_cov_7.744332	2500166.0	bacteria													
+SRR7892476	NODE_1221_length_871_cov_3.085642	68887.0	vertebrates,human	Torque teno virus	Viruses; Anelloviridae; unclassified Anelloviridae	NC_015783				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo	21593173	Literature		
+SRR7892476	NODE_1231_length_868_cov_3.126422	1647374.0	bacteria	Klebsiella phage K5	Viruses; Caudovirales; Podoviridae; Autographivirinae; Przondovirus; Klebsiella virus K5	NC_028800				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1247_length_862_cov_4.096815	1897515.0	bacteria													
+SRR7892476	NODE_1250_length_861_cov_9.089286	2508196.0	bacteria													
+SRR7892476	NODE_1253_length_860_cov_2.902937	2099850.0	bacteria													
+SRR7892476	NODE_1257_length_859_cov_7.547315	1610835.0	bacteria	Klebsiella phage vB_KpnP_SU552A	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus SU552A	NC_028870				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1259_length_859_cov_1.820972	2267885.0	bacteria													
+SRR7892476	NODE_1262_length_858_cov_6.909091	1986031.0	bacteria													
+SRR7892476	NODE_1264_length_857_cov_4.656410	2562725.0	bacteria													
+SRR7892476	NODE_1272_length_856_cov_1.897304	2100421.0	bacteria													
+SRR7892476	NODE_1274_length_855_cov_14.466581	2500166.0	bacteria													
+SRR7892476	NODE_1278_length_855_cov_1.967866	2099850.0	bacteria													
+SRR7892476	NODE_1286_length_852_cov_9.197419	1982370.0	bacteria													
+SRR7892476	NODE_1291_length_851_cov_4.687339	2053702.0	bacteria													
+SRR7892476	NODE_1296_length_850_cov_1.824062	2056127.0	bacteria													
+SRR7892476	NODE_1298_length_849_cov_6.507772	1982370.0	bacteria													
+SRR7892476	NODE_1299_length_849_cov_5.384715	2496551.0	bacteria	Shigella phage pSf-1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Hanrivervirus; Shigella virus pSf1	NC_021331				623.0	Shigella flexneri	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella		RefSeq		
+SRR7892476	NODE_1305_length_848_cov_4.490272	2483610.0	bacteria													
+SRR7892476	NODE_1310_length_846_cov_6.572172	1933773.0	bacteria													
+SRR7892476	NODE_1317_length_842_cov_3.641830	2483610.0	bacteria													
+SRR7892476	NODE_1318_length_842_cov_2.935948	2483610.0	bacteria													
+SRR7892476	NODE_1338_length_836_cov_5.346509	1985328.0	bacteria													
+SRR7892476	NODE_1339_length_836_cov_4.667984	2547246.0	bacteria													
+SRR7892476	NODE_1365_length_829_cov_4.081117	2099850.0	bacteria													
+SRR7892476	NODE_1373_length_826_cov_4.411215	2575323.0	bacteria													
+SRR7892476	NODE_1375_length_824_cov_7.519411	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1378_length_824_cov_2.348059	2099850.0	bacteria													
+SRR7892476	NODE_1395_length_819_cov_9.904313	1933773.0	bacteria													
+SRR7892476	NODE_1405_length_817_cov_6.009459	2099850.0	bacteria													
+SRR7892476	NODE_1408_length_817_cov_2.241892	1982370.0	bacteria													
+SRR7892476	NODE_1415_length_814_cov_3.588874	2548155.0	bacteria													
+SRR7892476	NODE_1438_length_806_cov_5.314129	1907784.0	bacteria													
+SRR7892476	NODE_1442_length_805_cov_4.831044	1904925.0	bacteria													
+SRR7892476	NODE_1446_length_805_cov_1.813187	2508196.0	bacteria													
+SRR7892476	NODE_1450_length_803_cov_9.451791	2026950.0	bacteria													
+SRR7892476	NODE_1451_length_803_cov_8.205234	2547246.0	bacteria													
+SRR7892476	NODE_1462_length_801_cov_4.715470	2099850.0	bacteria													
+SRR7892476	NODE_1464_length_801_cov_2.125691	2560154.0	bacteria													
+SRR7892476	NODE_1466_length_800_cov_8.206086	2099850.0	bacteria													
+SRR7892476	NODE_1470_length_799_cov_2.662050	2099850.0	bacteria													
+SRR7892476	NODE_1472_length_798_cov_4.389736	38018.0	bacteria													
+SRR7892476	NODE_1495_length_793_cov_0.939944	1852625.0	bacteria	Klebsiella phage vB_KpnM_KpV477	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Jiaodavirus; unclassified Jiaodavirus	NC_031087				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1496_length_792_cov_5.507692	2483610.0	bacteria													
+SRR7892476	NODE_1504_length_791_cov_1.740896	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1539_length_778_cov_5.205421	1982370.0	bacteria													
+SRR7892476	NODE_1540_length_778_cov_4.263909	2547246.0	bacteria													
+SRR7892476	NODE_1554_length_776_cov_1.978541	2070202.0	bacteria													
+SRR7892476	NODE_1559_length_774_cov_3.824964	2099850.0	bacteria													
+SRR7892476	NODE_1579_length_770_cov_6.399711	2053685.0	bacteria													
+SRR7892476	NODE_1582_length_770_cov_2.532468	1985328.0	bacteria													
+SRR7892476	NODE_1589_length_768_cov_1.434153	2483610.0	bacteria													
+SRR7892476	NODE_1596_length_766_cov_4.683599	2053702.0	bacteria													
+SRR7892476	NODE_1604_length_764_cov_13.075691	1610834.0	bacteria	Klebsiella phage vB_KpnP_SU503	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus SU503	NC_028816				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1605_length_764_cov_9.052402	1933773.0	bacteria													
+SRR7892476	NODE_1607_length_764_cov_4.505095	2099850.0	bacteria													
+SRR7892476	NODE_1610_length_763_cov_5.482507	1982370.0	bacteria													
+SRR7892476	NODE_1616_length_762_cov_1.689051	2508196.0	bacteria													
+SRR7892476	NODE_1617_length_761_cov_5.887427	1907784.0	bacteria													
+SRR7892476	NODE_1635_length_758_cov_4.223201	2212563.0	bacteria													
+SRR7892476	NODE_1643_length_756_cov_18.360825	1982370.0	bacteria													
+SRR7892476	NODE_1647_length_756_cov_2.002946	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1656_length_754_cov_6.549483	2547246.0	bacteria													
+SRR7892476	NODE_1658_length_754_cov_4.534712	1933773.0	bacteria													
+SRR7892476	NODE_1663_length_754_cov_1.710487	1912321.0	bacteria	Klebsiella phage vB_KpnM_KpV52	Viruses; Caudovirales; Myoviridae; Jedunavirus; Klebsiella virus KpV80	NC_041900				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1671_length_752_cov_1.819259	1913572.0	bacteria													
+SRR7892476	NODE_1673_length_752_cov_0.967407	707757.0	bacteria	Klebsiella phage KP15	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Slopekvirus; Klebsiella virus KP15	NC_014036				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1681_length_750_cov_3.387816	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1684_length_750_cov_1.843982	1002724.0	bacteria	Shigella virus Shfl1	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Tunavirus	NC_015456				623.0	Shigella flexneri	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Shigella		NCBI Virus, RefSeq		
+SRR7892476	NODE_1689_length_749_cov_1.998512	2500166.0	bacteria													
+SRR7892476	NODE_1703_length_746_cov_4.077728	2099850.0	bacteria													
+SRR7892476	NODE_1704_length_746_cov_2.475336	2301695.0	bacteria													
+SRR7892476	NODE_1708_length_744_cov_7.169415	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1712_length_744_cov_3.917541	1985325.0	bacteria													
+SRR7892476	NODE_1717_length_743_cov_3.608108	2212563.0	bacteria													
+SRR7892476	NODE_1720_length_742_cov_6.762406	2315168.0	bacteria													
+SRR7892476	NODE_1740_length_739_cov_2.969789	2500166.0	bacteria													
+SRR7892476	NODE_1742_length_738_cov_5.830560	2575323.0	bacteria													
+SRR7892476	NODE_1746_length_737_cov_5.366667	2026943.0	bacteria													
+SRR7892476	NODE_1751_length_737_cov_1.266667	2267885.0	bacteria													
+SRR7892476	NODE_1754_length_736_cov_3.065250	2508196.0	bacteria													
+SRR7892476	NODE_1757_length_736_cov_1.710167	2099850.0	bacteria													
+SRR7892476	NODE_1761_length_735_cov_0.931611	2560154.0	bacteria													
+SRR7892476	NODE_1762_length_734_cov_13.789954	2500166.0	bacteria													
+SRR7892476	NODE_1763_length_734_cov_11.753425	1913574.0	bacteria													
+SRR7892476	NODE_1787_length_731_cov_17.377676	1913574.0	bacteria													
+SRR7892476	NODE_1788_length_731_cov_6.129969	1904925.0	bacteria													
+SRR7892476	NODE_1792_length_731_cov_2.350153	2099585.0	bacteria													
+SRR7892476	NODE_1794_length_730_cov_9.387443	2548103.0	bacteria													
+SRR7892476	NODE_1795_length_730_cov_6.153139	1982370.0	bacteria													
+SRR7892476	NODE_1812_length_726_cov_9.525424	1194091.0	bacteria	Klebsiella phage NTUH-K2044-K1-1	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus K244	NC_025418				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella	25001459, 25853484	Literature		
+SRR7892476	NODE_1812_length_726_cov_9.525424	1194091.0	bacteria	Klebsiella phage NTUH-K2044-K1-1	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus K244	NC_025418				484021.0	Klebsiella pneumoniae subsp. pneumoniae NTUH-K2044	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella; Klebsiella pneumoniae	25001459, 25853484	Literature		
+SRR7892476	NODE_1831_length_723_cov_4.473684	2483610.0	bacteria													
+SRR7892476	NODE_1851_length_720_cov_1.601866	1907784.0	bacteria													
+SRR7892476	NODE_1857_length_719_cov_3.378505	1610829.0	bacteria	Klebsiella phage 1513	Viruses; Caudovirales; Siphoviridae; Tunavirinae; Webervirus; Klebsiella virus 1513	NC_028786				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1861_length_718_cov_8.079563	2070184.0	bacteria													
+SRR7892476	NODE_1874_length_716_cov_3.794992	2548094.0	bacteria													
+SRR7892476	NODE_1882_length_715_cov_2.836991	2234047.0	bacteria													
+SRR7892476	NODE_1911_length_710_cov_1.857820	38018.0	bacteria													
+SRR7892476	NODE_1920_length_709_cov_1.132911	1913572.0	bacteria													
+SRR7892476	NODE_1943_length_705_cov_1.700637	2070202.0	bacteria													
+SRR7892476	NODE_1963_length_701_cov_2.926282	1907784.0	bacteria													
+SRR7892476	NODE_1969_length_700_cov_4.719101	2575323.0	bacteria													
+SRR7892476	NODE_1978_length_699_cov_1.559486	1852657.0	bacteria	Klebsiella phage KpV475	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus KpV475	NC_031025				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_1986_length_697_cov_8.372581	2099850.0	bacteria													
+SRR7892476	NODE_1997_length_696_cov_3.833603	2099850.0	bacteria													
+SRR7892476	NODE_2013_length_694_cov_3.739060	2099850.0	bacteria													
+SRR7892476	NODE_2027_length_693_cov_1.548701	2303178.0	bacteria													
+SRR7892476	NODE_2053_length_689_cov_3.537582	2099850.0	bacteria													
+SRR7892476	NODE_2057_length_688_cov_8.757774	1933773.0	bacteria													
+SRR7892476	NODE_2060_length_688_cov_3.815057	2099850.0	bacteria													
+SRR7892476	NODE_2074_length_685_cov_3.394737	2483610.0	bacteria													
+SRR7892476	NODE_2076_length_685_cov_2.335526	2483610.0	bacteria													
+SRR7892476	NODE_2088_length_684_cov_0.606260	2070202.0	bacteria													
+SRR7892476	NODE_2099_length_682_cov_2.732231	2099850.0	bacteria													
+SRR7892476	NODE_2110_length_680_cov_16.348259	1982370.0	bacteria													
+SRR7892476	NODE_2113_length_680_cov_2.520730	1986031.0	bacteria													
+SRR7892476	NODE_2120_length_679_cov_4.328904	2483610.0	bacteria													
+SRR7892476	NODE_2138_length_677_cov_1.415000	1654928.0	bacteria	Klebsiella phage PKO111	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Jiaodavirus; Klebsiella virus PKO111	NC_031095				571.0	Klebsiella oxytoca	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_2163_length_674_cov_1.189280	707757.0	bacteria	Klebsiella phage KP15	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Slopekvirus; Klebsiella virus KP15	NC_014036				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_2171_length_673_cov_1.649329	2099850.0	bacteria													
+SRR7892476	NODE_2179_length_672_cov_2.075630	1852625.0	bacteria	Klebsiella phage vB_KpnM_KpV477	Viruses; Caudovirales; Myoviridae; Tevenvirinae; Jiaodavirus; unclassified Jiaodavirus	NC_031087				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_2190_length_671_cov_1.437710	264484.0	bacteria													
+SRR7892476	NODE_2192_length_670_cov_2.962901	1913574.0	bacteria													
+SRR7892476	NODE_2206_length_669_cov_0.822635	2562174.0	bacteria													
+SRR7892476	NODE_2209_length_668_cov_3.319797	2548103.0	bacteria													
+SRR7892476	NODE_2217_length_667_cov_6.055932	1913574.0	bacteria													
+SRR7892476	NODE_2229_length_666_cov_5.587436	1982370.0	bacteria													
+SRR7892476	NODE_2230_length_666_cov_4.011885	2483610.0	bacteria													
+SRR7892476	NODE_2245_length_665_cov_1.903061	1985325.0	bacteria													
+SRR7892476	NODE_2254_length_664_cov_4.001704	2508196.0	bacteria													
+SRR7892476	NODE_2270_length_663_cov_1.629693	2562174.0	bacteria													
+SRR7892476	NODE_2276_length_662_cov_21.170940	2547246.0	bacteria													
+SRR7892476	NODE_2280_length_661_cov_1.976027	1912321.0	bacteria	Klebsiella phage vB_KpnM_KpV52	Viruses; Caudovirales; Myoviridae; Jedunavirus; Klebsiella virus KpV80	NC_041900				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_2315_length_657_cov_2.382759	2508196.0	bacteria													
+SRR7892476	NODE_2324_length_656_cov_6.830743	1416011.0	bacteria	Klebsiella phage F19	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus F19	NC_023567				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella				
+SRR7892476	NODE_2342_length_654_cov_5.332756	1913574.0	bacteria													
+SRR7892476	NODE_2343_length_654_cov_5.107452	2099850.0	bacteria													
+SRR7892476	NODE_2344_length_654_cov_5.036395	2099850.0	bacteria													
+SRR7892476	NODE_2369_length_651_cov_6.841463	1933773.0	bacteria													
+SRR7892476	NODE_2372_length_651_cov_3.296167	2099850.0	bacteria													
+SRR7892476	NODE_2374_length_651_cov_1.775261	1852638.0	bacteria													
+SRR7892476	NODE_2376_length_650_cov_6.265271	2212563.0	bacteria													
+SRR7892476	NODE_2391_length_649_cov_2.606643	1758150.0	bacteria													
+SRR7892476	NODE_2392_length_649_cov_2.461538	122929.0	vertebrates,human	Norovirus GII	Viruses; Riboviria; Caliciviridae; Norovirus; Norwalk virus	NC_039477, NC_040876				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		RefSeq		
+SRR7892476	NODE_2393_length_648_cov_11.448336	1920860.0	bacteria													
+SRR7892476	NODE_2404_length_647_cov_5.835088	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_2408_length_647_cov_2.863158	2560154.0	bacteria													
+SRR7892476	NODE_2411_length_647_cov_1.750877	2483610.0	bacteria													
+SRR7892476	NODE_2434_length_644_cov_5.744268	1701805.0	bacteria	Klebsiella phage Kp2	Viruses; Caudovirales; Podoviridae; Autographivirinae; Drulisvirus; Klebsiella virus Kp2	NC_028664				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_2444_length_643_cov_1.226148	1236000.0	bacteria	Klebsiella phage JD001	Viruses; Caudovirales; Myoviridae; Jedunavirus; Klebsiella virus JD001	NC_020204				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		RefSeq		
+SRR7892476	NODE_2450_length_642_cov_4.446018	2099850.0	bacteria													
+SRR7892476	NODE_2468_length_640_cov_6.797513	1907784.0	bacteria													
+SRR7892476	NODE_2486_length_638_cov_7.866310	1920865.0	bacteria													
+SRR7892476	NODE_2493_length_638_cov_1.916221	2047786.0	bacteria													
+SRR7892476	NODE_2494_length_637_cov_18.612500	1907784.0	bacteria													
+SRR7892476	NODE_2497_length_637_cov_4.194643	2099850.0	bacteria													
+SRR7892476	NODE_2498_length_637_cov_3.760714	122929.0	vertebrates,human	Norovirus GII	Viruses; Riboviria; Caliciviridae; Norovirus; Norwalk virus	NC_039477, NC_040876				9606.0	Homo sapiens	Eukaryota; Metazoa; Chordata; Craniata; Sarcopterygii; Mammalia; Euarchontoglires; Primates; Haplorrhini; Simiiformes; Catarrhini; Hominoidea; Hominidae; Homininae; Homo		RefSeq		
+SRR7892476	NODE_2502_length_637_cov_1.476786	2508196.0	bacteria													
+SRR7892476	NODE_2511_length_635_cov_14.641577	2053702.0	bacteria													
+SRR7892476	NODE_2514_length_635_cov_3.335125	2099850.0	bacteria													
+SRR7892476	NODE_2515_length_635_cov_3.225806	2483610.0	bacteria													
+SRR7892476	NODE_2520_length_634_cov_6.639138	1982370.0	bacteria													
+SRR7892476	NODE_2523_length_634_cov_5.210054	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
+SRR7892476	NODE_2526_length_634_cov_2.430880	1913574.0	bacteria													
+SRR7892476	NODE_2549_length_631_cov_5.850181	2099850.0	bacteria													
+SRR7892476	NODE_2557_length_630_cov_7.394213	2548052.0	bacteria													
+SRR7892476	NODE_2564_length_630_cov_2.363472	1907784.0	bacteria													
+SRR7892476	NODE_2567_length_630_cov_1.459313	2562174.0	bacteria													
+SRR7892476	NODE_2583_length_628_cov_3.584392	2055263.0	vertebrates,human													
+SRR7892476	NODE_2588_length_627_cov_3.538182	2575323.0	bacteria													
+SRR7892476	NODE_2596_length_626_cov_2.378871	2562174.0	bacteria													
+SRR7892476	NODE_2612_length_624_cov_6.361974	1719140.0	bacteria	Klebsiella phage vB_KpnM_KB57	Viruses; Caudovirales; Myoviridae; unclassified Myoviridae	NC_028659				573.0	Klebsiella pneumoniae	Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales; Enterobacteriaceae; Klebsiella		NCBI Virus, RefSeq		
