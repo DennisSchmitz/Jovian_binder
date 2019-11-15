@@ -14,6 +14,7 @@ Every update the following must done to downsize data and redact server informat
 - Do not upload the log_index or child-logs.
 - Redact the pathing from `data/log_conda.txt`.
 - Do not upload the log_database file.
+- Update the link to the wiki containing the IGVjs screenshots (https://github.com/DennisSchmitz/Jovian/wiki/Example-Jovian-report#scaffold-viewer).
 
 #### Authors
 - Dennis Schmitz ([RIVM](https://www.rivm.nl/en) and [EMC](https://www6.erasmusmc.nl/viroscience/))  
