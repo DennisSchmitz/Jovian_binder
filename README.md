@@ -16,6 +16,11 @@ Every update the following must done to downsize data and redact server informat
 - Do not upload the log_database file.
 - Update the link to the wiki containing the IGVjs screenshots (https://github.com/DennisSchmitz/Jovian/wiki/Example-Jovian-report#scaffold-viewer).
 
+## Update checklist for the wiki
+
+- Make new screenshots and upload it to `Jovian`'s `assets` branch.
+- If needed, generate a new `rulegraph` via: `source activate Jovian_master; snakemake --rulegraph --profile profile | dot -Tpng > rulegraph_Jovian.png` and upload this to `Jovian`'s `assets` branch.
+
 #### Authors
 - Dennis Schmitz ([RIVM](https://www.rivm.nl/en) and [EMC](https://www6.erasmusmc.nl/viroscience/))  
 - Sam Nooij ([RIVM](https://www.rivm.nl/en) and [EMC](https://www6.erasmusmc.nl/viroscience/))  
